@@ -28,6 +28,9 @@ I would like to have tools available for the users of this map. The first tool I
 
 ![](/)
 
-![http://s1.postimg.org/l4toyyt73/IMG_20141031_123943313.jpg](http://s1.postimg.org/l4toyyt73/IMG_20141031_123943313.jpg)
 
 ![http://s8.postimg.org/6pjdjb9j9/Going_to_the_supply_oom.jpg](http://s8.postimg.org/6pjdjb9j9/Going_to_the_supply_oom.jpg)
+
+![http://s30.postimg.org/md6h04df5/IMG_20141031_132948474.jpg]
+(http://s30.postimg.org/md6h04df5/IMG_20141031_132948474.jpg)
+
