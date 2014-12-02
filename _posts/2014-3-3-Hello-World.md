@@ -14,3 +14,5 @@ The easiest way to make your first post is to edit this one. Go into /_posts/ an
 ![](/)
 
 ![http://s1.postimg.org/l4toyyt73/IMG_20141031_123943313.jpg](http://s1.postimg.org/l4toyyt73/IMG_20141031_123943313.jpg)
+
+![http://s8.postimg.org/6pjdjb9j9/Going_to_the_supply_oom.jpg](http://s8.postimg.org/6pjdjb9j9/Going_to_the_supply_oom.jpg)
