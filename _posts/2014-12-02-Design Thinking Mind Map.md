@@ -10,7 +10,7 @@ published: true
 ![](/)
 
 
-![http://s8.postimg.org/6pjdjb9j9/Going_to_the_supply_oom.jpg](http://s8.postimg.org/6pjdjb9j9/Going_to_the_supply_oom.jpg)
+![http://s30.postimg.org/6f850zw3l/Image68.jpg](http://s30.postimg.org/6f850zw3l/Image68.jpg)
 
 
 
