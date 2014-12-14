@@ -4,10 +4,7 @@ title: Navigating the Design Thinking World
 published: true
 ---
 
-![](/)
-
-![http://s16.postimg.org/4ex2smdsl/Slide2.jpg]
-(http://s16.postimg.org/4ex2smdsl/Slide2.jpg)
+![](/http://s16.postimg.org/4ex2smdsl/Slide2.jpg)
 
 The purpose of my prototyping project is to create a way to navigate the design thinking process. My goal is  to provide this tool to the Design Thinking Community.
 
