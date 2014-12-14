@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ![](/)
@@ -24,11 +24,3 @@ After going through various personal brainstorming sessions, I came up with two 
 **Function 2:** Detailed- I would like something that gives me many different options. I desire something like a toolbox, something that has tools that fit different situaions. 
 
 This was a very good start! See you next blog post.
-
-
-
-
-
-
-
-
