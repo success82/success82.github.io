@@ -4,7 +4,9 @@ title: Navigating the Design Thinking World
 published: true
 ---
 
-![](/http://s16.postimg.org/4ex2smdsl/Slide2.jpg)
+![](/)
+
+![http://s16.postimg.org/4ex2smdsl/Slide2.jpg](http://s16.postimg.org/4ex2smdsl/Slide2.jpg)
 
 The purpose of my prototyping project is to create a way to navigate the design thinking process. My goal is  to provide this tool to the Design Thinking Community.
 
@@ -16,29 +18,11 @@ Since starting the Design MBA Program, a majority of our work has been group des
 
 
 ##How we will develop this Map?
-I have compiled different design thinking books and websites and l plan to pull the best tools and processes from these resources and put them on a map that can be used for Design thinking projects. I have not totally defined exactly how this map will look, but it must meet the following criteria:
+I have compiled different design thinking books and websites and l plan to pull the best tools and processes from these resources and put them on a map that can be used for my Design Thinking projects. 
 
-
-
--Be mobile
-
-
--Be easy to read
+Thank you for coming along with me on my journey.
 
 
 
 
 
-
-http://s16.postimg.org/4ex2smdsl/Slide2.jpg
-
-
-
-![](/)
-
-
-![http://s8.postimg.org/6pjdjb9j9/Going_to_the_supply_oom.jpg](http://s8.postimg.org/6pjdjb9j9/Going_to_the_supply_oom.jpg)
-
-![http://s30.postimg.org/md6h04df5/IMG_20141031_132948474.jpg](http://s30.postimg.org/md6h04df5/IMG_20141031_132948474.jpg)
-
-![http://s8.postimg.org/3r933reo5/Finished_Product.jpg](http://s8.postimg.org/3r933reo5/Finished_Product.jpg)
