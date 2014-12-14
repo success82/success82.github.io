@@ -4,6 +4,11 @@ title: Navigating the Design Thinking World
 published: true
 ---
 
+![](/)
+
+![http://s16.postimg.org/4ex2smdsl/Slide2.jpg]
+(http://s16.postimg.org/4ex2smdsl/Slide2.jpg)
+
 The purpose of my prototyping project is to create a way to navigate the design thinking process. My goal is  to provide this tool to the Design Thinking Community.
 
 
@@ -25,11 +30,10 @@ I have compiled different design thinking books and websites and l plan to pull 
 
 
 
-##Tool Development
-I would like to have tools available for the users of this map. The first tool I decided to develop was a mobile whiteboard. This mobile whiteboard would be the same dimensions as a standard sheet of paper and be able to be folded out and mounted on the wall for mobile brainstorming. Here are some pictures of my process.
 
 
 
+http://s16.postimg.org/4ex2smdsl/Slide2.jpg
 
 
 
