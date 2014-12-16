@@ -1,8 +1,6 @@
 ---
-published: false
+published: true
 ---
-
-
 
 ## Setting my new direction
 
