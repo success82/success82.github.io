@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ![](/)
@@ -15,4 +15,3 @@ I have divided it into 3 different areas.
 Collaboration
 Research/Ideating
 Prototyping/Testing
-
