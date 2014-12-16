@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Design Thinking
@@ -7,4 +7,3 @@ published: false
 This website is a great resource for Design Thinking.
 
 http://dschool.stanford.edu/
-
