@@ -13,6 +13,6 @@ The design thinking map is complete. I have compiled all my resources and chosen
 I have divided it into 3 different areas.
 
 Collaboration
-Ideation/Prototyping
-Testing
+Research/Ideating
+Prototyping/Testing
 
